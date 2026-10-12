@@ -1,0 +1,10 @@
+build/
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+duke3dmod.dll
+test_host.exe
+*.log
+.superpowers/
